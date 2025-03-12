@@ -7,8 +7,9 @@ $\text{SAM-MoPE}$ is a fine-tuning model based on SAM, mainly designed for unive
 You can follow the steps below to install:
 
 1. Clone the project to your local machine using the following command:
-   
- <!--  git clone https://github.com/YuancongLiang/SAM-MoPE.git -->
+   ```
+   git clone https://github.com/YuancongLiang/SAM-MoPE.git
+   ```
 
 2. Navigate to the project directory:
    ```
