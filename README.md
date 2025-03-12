@@ -20,11 +20,6 @@ You can follow the steps below to install:
    conda create -n sammope python=3.10
    ```
 
-4. Install all the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 Here are some common usage examples:
